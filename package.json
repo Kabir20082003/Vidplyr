@@ -1,0 +1,15 @@
+{
+  "name": "vidplyr",
+  "version": "1.0.0",
+  "description": "a personal project to learn backend development ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "author": "Kabir Batra",
+  "license": "ISC"
+}
